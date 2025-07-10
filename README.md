@@ -80,8 +80,8 @@ GiveBack-App/
 ├── README.md
 ✨ Future Improvements
 
-🗺️ Google Maps API for locating nearby donation events
-📊 Analytics dashboard for NGOs
-🔔 Notification system for donation reminders
-🤝 NGO verification system
-🌐 Multilingual support
+Google Maps API for locating nearby donation events
+Analytics dashboard for NGOs
+Notification system for donation reminders
+ NGO verification system
+ Multilingual support
